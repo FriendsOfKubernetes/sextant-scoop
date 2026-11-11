@@ -1,5 +1,5 @@
 {
-  "version": "0.29.2",
+  "version": "0.30.0",
   "description": "Desktop Kubernetes client with a built-in MCP server for AI agents",
   "homepage": "https://github.com/FriendsOfKubernetes/sextant",
   "license": "MIT|Apache-2.0",
@@ -9,8 +9,8 @@
   ],
   "architecture": {
     "64bit": {
-      "url": "https://github.com/FriendsOfKubernetes/sextant/releases/download/v0.29.2/Sextant_0.29.2_x64_portable.zip",
-      "hash": "a5e747e6171399d424a7276df28ec3997fb84d001215b02efb7ca38792b341cb"
+      "url": "https://github.com/FriendsOfKubernetes/sextant/releases/download/v0.30.0/Sextant_0.30.0_x64_portable.zip",
+      "hash": "337b411261dc5faf13265d01d1e4ad0e77283c49ed450c6fb201cfc54824e40b"
     }
   },
   "bin": "sextant.exe",
